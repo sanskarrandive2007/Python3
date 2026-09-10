@@ -1,2 +1,2 @@
-# Python3
+# Python
 My Python Project's
